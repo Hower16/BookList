@@ -1,1 +1,1 @@
-# BookList
+A book list project built using React, Redux, and Webpack
